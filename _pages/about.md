@@ -16,4 +16,4 @@ My research mainly focuses on data mining, especially for graph data, including 
 
 What's New
 ======
-February 1, 2024. Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
+* February 1, 2024. Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
