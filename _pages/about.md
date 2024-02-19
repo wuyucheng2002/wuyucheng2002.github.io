@@ -16,4 +16,4 @@ My research mainly focuses graph data mining, including privacy protection and g
 
 What's New
 ======
-2024.2.19 Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
+February 1, 2024. Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
