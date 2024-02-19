@@ -12,7 +12,7 @@ title                    : "Yucheng Wu"
 title_separator          : "-"
 name                     : &name "Yucheng Wu"
 description              : &description "PhD Student @ PKU"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://wuyucheng2002.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://wuyucheng2002.github.io"
 
@@ -21,7 +21,7 @@ repository               : "https://wuyucheng2002.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wyc2.png"
+  avatar           : "profile.png"
   name             : "Yucheng Wu"
   pronouns         : "吴玉珵"  
   bio              : "PhD Student"
