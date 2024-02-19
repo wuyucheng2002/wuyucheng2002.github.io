@@ -21,7 +21,7 @@ repository               : "https://wuyucheng2002.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wyc.png"
+  avatar           : "wyc2.png"
   name             : "Yucheng Wu"
   pronouns         : "吴玉珵"  
   bio              : "PhD Student"
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/cheng-bao-74-80"
+  zhihu            : # "https://www.zhihu.com/people/cheng-bao-74-80"
 
 
 # Site Settings
