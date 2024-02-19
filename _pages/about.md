@@ -14,6 +14,6 @@ Before that, I received my B.E. degree from the School of Information Management
 My research mainly focuses graph data mining, including privacy protection and graph representation methods.
 
 
-News
+What's New
 ======
 2024.2.19 Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
