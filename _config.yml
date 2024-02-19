@@ -8,25 +8,25 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yucheng Wu's Homepage"
+title                    : "Yucheng Wu"
 title_separator          : "-"
 name                     : &name "Yucheng Wu"
 description              : &description "PhD Student @ PKU"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://wuyucheng2002.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wyc.jpg"
+  avatar           : "wyc.png"
   name             : "Yucheng Wu"
-  pronouns         : "she/her"  
+  pronouns         : "吴玉珵"  
   bio              : "PhD Student"
   location         : "Beijing, China"
-  employer         : "Peking University, School of Computer Science"
+  employer         : "Peking University"
   uri              : # URL
   email            : "wuyucheng@stu.pku.edu.cn" 
 
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "Yucheng"
+  zhihu            : "https://www.zhihu.com/people/cheng-bao-74-80"
 
 
 # Site Settings
