@@ -8,7 +8,7 @@ author_profile: true
 ## Internship
 
 * Modeling Group Intern, <a href="https://www.healscitech.com/#/home" target="_blank">Beijing HealSci Technology Co., Ltd.</a> <br/>
-Job Description: Utilizing surgical data from hospital patients, conduct feature engineering and modeling to predict postoperative blood loss and transfusion volume for patients.
+I utilize hospital patient surgical data to conduct feature engineering and modeling for predicting postoperative blood loss and transfusion volume.
 
 ## Teaching
 
