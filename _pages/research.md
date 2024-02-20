@@ -20,5 +20,5 @@ You can also find a list of my published work on <a href="https://scholar.google
 
 * **DataGuard: An Open Source Platform for Secure Data Publication** <br/>
   <a href="http://101.132.17.93/" target="_blank">Website</a> | 
-  <a href="https://github.com/wuyucheng2002/DataGuard" target="_blank">Code</a>]
+  <a href="https://github.com/wuyucheng2002/DataGuard" target="_blank">Code</a>
   
