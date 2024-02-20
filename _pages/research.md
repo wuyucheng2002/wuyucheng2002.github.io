@@ -19,6 +19,7 @@ You can also find a list of my published work on <a href="https://scholar.google
 ## Projects
 
 * **DataGuard: An Open Source Platform for Secure Data Publication** <br/>
+  Won the third prize in *the Jiangsu Health and Medical Big Data Innovation Application Competition* in 2023. <br/>
   <a href="http://101.132.17.93/" target="_blank">Website</a> | 
   <a href="https://github.com/wuyucheng2002/DataGuard" target="_blank">Code</a>
   
