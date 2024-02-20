@@ -8,3 +8,4 @@ author_profile: true
 * Outstanding Graduate, Shanghai, 2023
 * Outstanding Undergraduate Thesis, SUFE, 2023
 * First Prize of Computer Design Competition, China, 2022
+* National Scholarship, Chinese Ministry of Education, 2021&2020
