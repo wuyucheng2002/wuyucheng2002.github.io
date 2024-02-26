@@ -16,6 +16,7 @@ You can also find a list of my published work on <a href="https://scholar.google
   <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a>
 
 \*Corresponding Authors
+\#Co-first Authors
 
 
 ## Projects
