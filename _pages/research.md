@@ -9,13 +9,14 @@ You can also find a list of my published work on <a href="https://scholar.google
 
 ## Papers
 
+(\*corresponding authors, <sup>#</sup>co-first authors)
+
 * **Graph Contrastive Learning with Cohesive Subgraph Awareness** <br/>
   <b>Yucheng Wu</b>, Leye Wang\*, Xiao Han\*, Han-Jia Ye <br/>
   CCF-A | *The Web Conference* (WWW) 2024 | 
   <a href="https://arxiv.org/abs/2401.17580" target="_blank">arXiv</a> | 
   <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a>
 
-(\*corresponding authors, <sup>#</sup>co-first authors)
 
 
 ## Projects
