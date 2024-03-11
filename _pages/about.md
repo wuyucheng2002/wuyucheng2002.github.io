@@ -18,10 +18,7 @@ What's New
 ======
 * February 1, 2024. Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
 
+</br>
+</br>
 
-Page Hits
-
-<a href="https://www.easycounter.com/">
-<img src="https://www.easycounter.com/counter.php?wuyucheng"
-border="0" alt="Web Counters"></a>
-<br><a href="https://www.easycounter.com/">Web Counters</a>
+Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?wuyucheng" border="0" alt="Web Counters"></a>
