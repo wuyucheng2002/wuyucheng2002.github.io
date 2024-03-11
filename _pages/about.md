@@ -17,3 +17,11 @@ My research mainly focuses on machine learning and data mining, especially for g
 What's New
 ======
 * February 1, 2024. Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
+
+
+Page Hits
+
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?wuyucheng"
+border="0" alt="Web Counters"></a>
+<br><a href="https://www.easycounter.com/">Web Counters</a>
