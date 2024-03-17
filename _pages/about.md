@@ -11,13 +11,13 @@ Currently, I am a PhD student in the School of Computer Science, Peking Universi
 
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="http://simecv.sufe.edu.cn/page.aspx?id=54" target="_blank">Xiao Han</a>. 
 
-My research mainly focuses on machine learning and data mining, especially for graph data, including privacy protection techniques and representation methods.
+My research mainly focuses on data mining, including privacy protection techniques and representation methods.
 
 <br/>
 
 What's New
 ======
-* February 1, 2024. Our paper about graph contrastive learning is accepted by WWW 2024 Research Track.
+* February 1, 2024. One paper about graph contrastive learning is accepted by WWW 2024 Research Track.
 
 <br/>
 
