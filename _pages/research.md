@@ -15,7 +15,8 @@ You can also find a list of my published work on <a href="https://scholar.google
   <b>Yucheng Wu</b>, Leye Wang\*, Xiao Han\*, Han-Jia Ye <br/>
   CCF-A | *The Web Conference* (WWW) 2024 | 
   <a href="https://arxiv.org/abs/2401.17580" target="_blank">arXiv</a> | 
-  <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a>
+  <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a> |
+  <a href="https://www.youtube.com/watch?v=XLaXTIMSG_0" target="_blank">3-min video</a>
 
 
 
