@@ -13,14 +13,14 @@ You can also find a list of my published work on <a href="https://scholar.google
 
 * **Graph Contrastive Learning with Cohesive Subgraph Awareness** <br/>
   <b>Yucheng Wu</b>, Leye Wang\*, Xiao Han\*, Han-Jia Ye <br/>
-  CCF-A | *The Web Conference 2024* (Track: Graph Algorithms and Learning for the Web) | 
+  CCF-A | *The Web Conference 2024* (Track: Graph Algorithms and Learning for the Web) <br/> 
   <a href="https://arxiv.org/abs/2401.17580" target="_blank">arXiv</a> | 
   <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a> |
   <a href="https://www.youtube.com/watch?v=XLaXTIMSG_0" target="_blank">3-min video</a>
 
 * **Efficient User Sequence Learning for Online Services via Compressed Graph Neural Networks** <br/>
   <b>Yucheng Wu</b>, Liyue Chen, Yu Cheng, Shuai Chen\*, Jinyu Xu, Leye Wang\* <br/>
-  CCF-B | *IEEE ICWS 2024* (Track: Regular Full Paper)
+  CCF-B | *IEEE ICWS 2024* (Track: Regular Full Paper) <br/>
 
 
 ## Projects
