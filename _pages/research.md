@@ -17,7 +17,8 @@ You can also find a list of my published work on <a href="https://scholar.google
   
 * **Graph Contrastive Learning with Cohesive Subgraph Awareness** <br/>
   <b>Yucheng Wu</b>, Leye Wang\*, Xiao Han\*, Han-Jia Ye <br/>
-  CCF-A | *The Web Conference 2024* (Track: Graph Algorithms and Learning for the Web) <br/> 
+  CCF-A | *The Web Conference 2024* (Track: Graph Algorithms and Learning for the Web) <br/>
+  <a href="https://dl.acm.org/doi/10.1145/3589334.3645470" target="_blank">Paper</a> |
   <a href="https://arxiv.org/abs/2401.17580" target="_blank">arXiv</a> | 
   <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a> |
   <a href="https://www.youtube.com/watch?v=XLaXTIMSG_0" target="_blank">3-min video</a>
