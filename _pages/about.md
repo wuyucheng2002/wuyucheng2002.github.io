@@ -17,7 +17,7 @@ My research mainly focuses on graph data mining, including privacy protection te
 
 What's New
 ======
-* May 14, 2024. One paper applying graph compression to enhance sequence learning is accepted by IEEE ICWS 2024 as a regular full paper.
+* May 14, 2024. One paper applying graph compression to enhance sequence learning is accepted by IEEE ICWS 2024.
 * February 1, 2024. One paper about graph contrastive learning is accepted by WWW 2024 Research Track.
 
 <br/>
