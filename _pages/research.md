@@ -21,7 +21,8 @@ You can also find a list of my published work on <a href="https://scholar.google
   <a href="https://dl.acm.org/doi/10.1145/3589334.3645470" target="_blank">Paper</a> |
   <a href="https://arxiv.org/abs/2401.17580" target="_blank">arXiv</a> | 
   <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a> |
-  <a href="https://www.youtube.com/watch?v=XLaXTIMSG_0" target="_blank">3-min video</a>
+  <a href="https://www.youtube.com/watch?v=XLaXTIMSG_0" target="_blank">Video</a> |
+  <a href="https://wuyucheng2002.github.io/files/Yucheng_Wu_rfp0950.pdf" target="_blank">Poster</a>
 
 
 ## Projects
