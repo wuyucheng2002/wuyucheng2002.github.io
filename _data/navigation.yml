@@ -6,14 +6,12 @@ main:
   - title: "Experience"
     url: /experience/    
     
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Talks"
+    url: /talks/       
     
   - title: "Awards"
     url: /awards/    
     
-  # - title: "Talks"
-  #   url: /talks/    
 
   # - title: "Portfolio"
   #   url: /portfolio/
