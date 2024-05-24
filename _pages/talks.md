@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **Compressed and Sparse Sensing** <br/>
+  Academic symposium at the Modeling Group of HealSci Technology on May 24, 2024. <br/>
+  <a href="https://wuyucheng2002.github.io/files/20240524_sparse_sensing.pdf" target="_blank">Slides</a>
+  
 * **GNN Deployment with High Efficiency** <br/>
   Academic symposium at the Modeling Group of HealSci Technology on April 12, 2024. <br/>
   <a href="https://wuyucheng2002.github.io/files/20240412_GNN_Deployment.pdf" target="_blank">Slides</a>
