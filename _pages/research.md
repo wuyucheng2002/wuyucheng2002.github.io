@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-author_profile: false
+author_profile: true
 ---
 
 You can also find a list of my published work on <a href="https://scholar.google.com/citations?user=eaoo3lAAAAAJ" target="_blank">Google Scholar</a>.
