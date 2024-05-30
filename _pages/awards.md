@@ -2,7 +2,7 @@
 layout: archive
 title: "Awards"
 permalink: /awards/
-author_profile: false
+author_profile: true
 ---
 
 * 2023, Outstanding Graduate of Shanghai (上海市优秀毕业生)
