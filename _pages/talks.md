@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks"
 permalink: /talks/
-author_profile: false
+author_profile: true
 ---
 
 * **Compressed and Sparse Sensing** <br/>
