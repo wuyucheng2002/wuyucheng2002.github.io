@@ -14,7 +14,9 @@ You can also find a list of my published work on <a href="https://scholar.google
 * **Efficient User Sequence Learning for Online Services via Compressed Graph Neural Networks** <br/>
   <b>Yucheng Wu</b>, Liyue Chen, Yu Cheng, Shuai Chen\*, Jinyu Xu, Leye Wang\* <br/>
   [CCF-B] *IEEE ICWS 2024* (Track: Regular Full Paper) <br/>
-  <a href="https://arxiv.org/abs/2406.02979" target="_blank">arXiv</a>
+  <a href="https://arxiv.org/abs/2406.02979" target="_blank">arXiv</a> |
+  <a href="https://wuyucheng2002.github.io/files/ICWS_ECSeq.pdf" target="_blank">Slides</a> |
+  <a href="https://www.bilibili.com/video/BV1vpateCEzc" target="_blank">Talk</a>
   
 * **Graph Contrastive Learning with Cohesive Subgraph Awareness** <br/>
   <b>Yucheng Wu</b>, Leye Wang\*, Xiao Han\*, Han-Jia Ye <br/>
