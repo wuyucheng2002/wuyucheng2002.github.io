@@ -12,6 +12,7 @@ Currently, I am a second-year PhD student in the School of Computer Science, Pek
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="http://simecv.sufe.edu.cn/page.aspx?id=54" target="_blank">Xiao Han</a>. 
 
 My research mainly focuses on graph data mining, including privacy protection techniques and representation learning methods.
+Now, I am looking for research opportunities combining graph computing with the emerging AI system.
 
 <br/>
 
