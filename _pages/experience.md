@@ -27,11 +27,13 @@ Skill: Feature Engineering, Data Cleaning, Data Mining
 
 ## Awards
 
-* 2023, Outstanding Graduate of Shanghai (上海市优秀毕业生)
-* 2023, Outstanding Undergraduate Thesis of SUFE (上海财经大学优秀本科生毕业论文)
-* 2022, First Prize of Chinese Computer Design Competition (中国大学生计算机设计大赛一等奖)
-* 2021, National Scholarship (国家奖学金)
-* 2020, National Scholarship (国家奖学金)
+* 2024, Merit Student Pacesetter, Peking University (北京大学三好学生标兵)
+* 2024, National Scholarship, Chinese Ministry of Education (国家奖学金)
+* 2023, Outstanding Graduate, Shanghai Municipal Commission of Education (上海市优秀毕业生)
+* 2023, Outstanding Undergraduate Thesis, Shanghai University of Finance and Economics (上海财经大学优秀本科生毕业论文)
+* 2022, First Prize of Chinese Computer Design Competition, Competition Organizing Committee (中国大学生计算机设计大赛一等奖)
+* 2021, National Scholarship, Chinese Ministry of Education (国家奖学金)
+* 2020, National Scholarship, Chinese Ministry of Education (国家奖学金)
 
 ## Eduation
 
