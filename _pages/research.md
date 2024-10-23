@@ -36,7 +36,7 @@ You can also find a list of my published work on <a href="https://scholar.google
   <a href="http://101.132.17.93/" target="_blank">Website</a> | 
   <a href="https://github.com/wuyucheng2002/DataGuard" target="_blank">Code</a> <br/>
   * We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovation Application Competition*.<br/>
-     (2023年江苏省健康医疗大数据创新应用大赛三等奖)<br/>
+     (2023年江苏省健康医疗大数据创新应用大赛三等奖，7/87)<br/>
   * We won the first prize of the *2023 Shanghai Open Source Innovation Excellence Achievement Award*.<br/>
      (2023年度上海开源创新卓越成果奖一等奖)
   
