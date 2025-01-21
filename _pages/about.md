@@ -10,7 +10,7 @@ redirect_from:
 Currently, I am a second-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>. 
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="https://www.diggg.cn/pages/researchPower.html?id=2105dc281b092af604065c5916e9c73a" target="_blank">Xiao Han</a>. 
 
-My research mainly focuses on graph data mining, including representation learning methods and privacy protection techniques. Currently, I plan to study large-scale graph training and compression techniques.
+My research mainly focuses on graph data mining, including representation learning methods and privacy protection techniques. Currently, I plan to study large-scale graph training and inference optimization techniques.
 
 <br/>
 
