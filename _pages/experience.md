@@ -7,7 +7,7 @@ author_profile: true
 
 ## Services
 
-* Reviewer for KDD 2025 Research Track Aug.
+* Reviewer for KDD 2025 Research Track Aug (5).
 * Reviewer for KDD 2025 Research Track Feb (2).
 
 ## Teaching
