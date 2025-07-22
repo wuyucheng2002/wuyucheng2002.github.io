@@ -16,7 +16,7 @@ My primary research interest is in large-scale data mining, including efficient 
 
 What's New
 ======
-* 2025.07. One paper propose a learning-based privacy-preserving graph publishing technique is accepted by IEEE TIFS.
+* 2025.07. Our paper on a learning-based, privacy-preserving graph publishing technique has been accepted for publication in IEEE Transactions on Information Forensics and Security (TIFS).
 * 2024.05. I am delighted to be selected for the 2025 Tencent Rhino-bird Research Elite Program.
 
 <br/>
