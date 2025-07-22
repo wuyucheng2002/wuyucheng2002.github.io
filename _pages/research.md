@@ -11,6 +11,10 @@ You can also find a list of my published work on <a href="https://scholar.google
 
 (\*corresponding authors, <sup>#</sup>co-first authors)
 
+* **Learning-based Privacy-Preserving Graph Publishing Against Sensitive Link Inference Attacks** <br/>
+  <b>Yucheng Wu</b><sup>#</sup>, Yuncong Yang<sup>#</sup>, Xiao Han, Leye Wang, Junjie Wu <br/>
+  [CCF-A] *IEEE Transactions on Information Forensics & Security (2025)* <br/>
+
 * **Efficient User Sequence Learning for Online Services via Compressed Graph Neural Networks** <br/>
   <b>Yucheng Wu</b>, Liyue Chen, Yu Cheng, Shuai Chen\*, Jinyu Xu, Leye Wang\* <br/>
   [CCF-B] *IEEE ICWS 2024* (Track: Regular Full Paper) <br/>
