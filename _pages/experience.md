@@ -18,7 +18,7 @@ author_profile: true
 ## Internship
 
 * Intern of 2025 Tencent Rhino-bird Research Elite Program, Tencent, 2025.05 ~ Now.
-* Modeling Group Intern, Beijing HealSci Technology (北京和兴创联健康科技有限公司), 2023.10 ~ 2024.06. <br/>
+* Modeling Group Intern, Beijing HealSci Technology, 2023.10 ~ 2024.06. <br/>
 Task: I utilize hospital patient surgical data to conduct feature engineering and modeling for predicting postoperative blood loss and transfusion volume. <br/>
 Skill: Feature Engineering, Data Cleaning, Data Mining
 
@@ -35,11 +35,11 @@ Skill: Feature Engineering, Data Cleaning, Data Mining
 
 ## Awards
 
-* 2024, Merit Student Pacesetter, PKU (北京大学三好学生标兵, 10/600)
-* 2024, National Scholarship, Chinese Ministry of Education (国家奖学金, 4%)
-* 2023, Outstanding Graduate, Shanghai Municipal Commission of Education (上海市优秀毕业生)
-* 2023, Outstanding Undergraduate Thesis, SUFE (上海财经大学优秀本科生毕业论文)
-* 2022, First Prize of Chinese Computer Design Competition (中国大学生计算机设计大赛一等奖，293/30000+)
-* 2021, National Scholarship, Chinese Ministry of Education (国家奖学金)
-* 2020, National Scholarship, Chinese Ministry of Education (国家奖学金)
+* 2024, Merit Student Pacesetter, PKU (10/600)
+* 2024, National Scholarship, Chinese Ministry of Education (4%)
+* 2023, Outstanding Graduate, Shanghai Municipal Commission of Education
+* 2023, Outstanding Undergraduate Thesis, SUFE
+* 2022, First Prize of Chinese Computer Design Competition (293/30000+)
+* 2021, National Scholarship, Chinese Ministry of Education
+* 2020, National Scholarship, Chinese Ministry of Education
 
