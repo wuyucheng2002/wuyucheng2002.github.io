@@ -42,8 +42,6 @@ You can also find a list of my published work on <a href="https://scholar.google
   Xiao Han, Yuncong Yang, <b>Yucheng Wu</b>, Yi Li, Cunyao Zhou, Leye Wang <br/>
   <a href="http://120.27.122.126/index.php" target="_blank">Website</a> | 
   <a href="https://github.com/wuyucheng2002/DataGuard" target="_blank">Code</a> <br/>
-  * We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovation Application Competition*.<br/>
-     (2023年江苏省健康医疗大数据创新应用大赛三等奖，7/87)<br/>
+  * We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovation Application Competition* (7/87).<br/>
   * We won the first prize of the *2023 Shanghai Open Source Innovation Excellence Achievement Award*.<br/>
-     (2023年度上海开源创新卓越成果奖一等奖)
   
