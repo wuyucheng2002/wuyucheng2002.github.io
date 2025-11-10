@@ -40,7 +40,6 @@ Skill: Feature Engineering, Data Cleaning, Data Mining
 
 * 2025, Outstanding Research Award, PKU
 * 2025, Outstanding Student of the Tencent Rhino-bird Open Source Talent Cultivation Program, Tencent (183/2300+)
-* 2025, Selected into the Tencent Rhino-bird Research Elite Program
 * 2024, Merit Student Pacesetter, PKU (10/600)
 * 2024, National Scholarship, Chinese Ministry of Education (4%)
 * 2023, Outstanding Graduate, Shanghai Municipal Commission of Education
