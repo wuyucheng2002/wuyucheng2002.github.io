@@ -56,8 +56,8 @@ We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovati
 - Reviewer for KDD 2025 Research Track Feb (2).
 
 # 📚 Teaching
-- Teaching Assistant of *Data Structures and Algorithms A** by Prof. Leye Wang, Peking University, Fall 2024.
-- Teaching Assistant of *Data Structures and Algorithms A** by Prof. Leye Wang, Peking University, Fall 2023.
+- Teaching Assistant of *Data Structures and Algorithms A* by Prof. Leye Wang, Peking University, Fall 2024.
+- Teaching Assistant of *Data Structures and Algorithms A* by Prof. Leye Wang, Peking University, Fall 2023.
 
 # 🏆 Competition
 - 2025, Tencent Advertising Algorithm Competition, 55/2800+
