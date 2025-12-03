@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Currently, I am a third-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>.
-
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="https://www.diggg.cn/pages/researchPower.html?id=2105dc281b092af604065c5916e9c73a" target="_blank">Xiao Han</a>.
 
 My research interests lie in data mining, LLM applications, and reinforcement learning.
