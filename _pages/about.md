@@ -59,13 +59,13 @@ We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovati
 - Teaching Assistant of *Data Structures and Algorithms A* by Prof. Leye Wang, Peking University, Fall 2024.
 - Teaching Assistant of *Data Structures and Algorithms A* by Prof. Leye Wang, Peking University, Fall 2023.
 
-# 🏆 Competition
-- 2025, Tencent Advertising Algorithm Competition, 55/2800+
-- 2022, First Prize of Chinese Computer Design Competition, 293/30000+
-
 # 💻 Internships
 - Intern of 2025 Tencent Rhino-bird Research Elite Program, Tencent (CDG), 2025.05 ~ Now.
 - Modeling Group Intern (Remote), Beijing HealSci Technology, 2023.10 ~ 2024.06.
+
+# 🏆 Competition
+- 2025, Tencent Advertising Algorithm Competition, 55/2800+
+- 2022, First Prize of Chinese Computer Design Competition, 293/30000+
 
 # 🎖 Awards
 - 2025, Outstanding Research Award, PKU
