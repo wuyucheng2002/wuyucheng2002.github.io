@@ -68,7 +68,7 @@ We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovati
 
 # 🎖 Awards
 - 2025, Outstanding Research Award, PKU
-- 2025, Outstanding Student of the Tencent Rhino-bird Open Source Talent Cultivation Program, Tencent (183/2300+)
+- 2025, Outstanding Student of, Tencent Rhino-bird Open Source Talent Development Program (183/2300+)
 - 2024, Merit Student Pacesetter, PKU (10/600)
 - 2024, National Scholarship, Chinese Ministry of Education
 - 2023, Outstanding Graduate, Shanghai Municipal Commission of Education
