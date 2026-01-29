@@ -19,6 +19,10 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 # 📝 Publications
 (\*corresponding authors, <sup>#</sup>co-first authors)
 
+- **JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training**<br/>
+Hongzheng Li, <b>Yucheng Wu</b>, Junjie Zhai, Anan Liu, Yuekui Yang, Yingxia Shao<br/>
+[CCF-A] *ICDE 2026 Industry and Applications*
+
 - **Learning-based Privacy-Preserving Graph Publishing Against Sensitive Link Inference Attacks**<br/>
 <b>Yucheng Wu</b><sup>#</sup>, Yuncong Yang<sup>#</sup>, Xiao Han\*, Leye Wang, Junjie Wu<br/>
 [CCF-A] *IEEE Transactions on Information Forensics & Security (2025)*<br/>
