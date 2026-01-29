@@ -17,7 +17,6 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 
 
 # 📝 Publications
-(\*corresponding authors, <sup>#</sup>co-first authors)
 
 - **JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training**<br/>
 Hongzheng Li, <b>Yucheng Wu</b>, Junjie Zhai, Anan Liu, Yuekui Yang, Yingxia Shao<br/>
@@ -46,6 +45,8 @@ Hongzheng Li, <b>Yucheng Wu</b>, Junjie Zhai, Anan Liu, Yuekui Yang, Yingxia Sha
 <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a> |
 <a href="https://www.youtube.com/watch?v=XLaXTIMSG_0" target="_blank">Video</a> |
 <a href="https://wuyucheng2002.github.io/files/Yucheng_Wu_rfp0950.pdf" target="_blank">Poster</a>
+
+(\*corresponding authors, <sup>#</sup>co-first authors)
 
 # 🛠️ Projects
 - **DataGuard: An Open Source Platform for Secure Data Publication**<br/>
