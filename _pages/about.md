@@ -43,7 +43,7 @@ Hongzheng Li, <b>Yucheng Wu</b>, Junjie Zhai, Anan Liu, Yuekui Yang, Yingxia Sha
 
 - **Graph Contrastive Learning with Cohesive Subgraph Awareness**<br/>
 <b>Yucheng Wu</b>, Leye Wang\*, Xiao Han\*, Han-Jia Ye<br/>
-[CCF-A] *The Web Conference 2024* (Track: Graph Algorithms and Learning for the Web) <br/>
+[CCF-A] *The Web Conference 2024*<br/>
 <a href="https://dl.acm.org/doi/10.1145/3589334.3645470" target="_blank">Paper</a> |
 <a href="https://arxiv.org/abs/2401.17580" target="_blank">arXiv</a> |
 <a href="https://github.com/wuyucheng2002/CTAug" target="_blank">Code</a> |
@@ -60,8 +60,10 @@ Xiao Han, Yuncong Yang, <b>Yucheng Wu</b>, Yi Li, Cunyao Zhou, Leye Wang<br/>
 We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovation Application Competition* (7/87) and the first prize of the *2023 Shanghai Open Source Innovation Excellence Achievement Award*.
 
 # 📝 Services
-- Reviewer for KDD 2025 Research Track Aug (5).
-- Reviewer for KDD 2025 Research Track Feb (2).
+I serve(d) as a program committee member / reviewer for:
+
+- 2026: TIFS
+- 2025: KDD
 
 # 📚 Teaching
 - Teaching Assistant of *Data Structures and Algorithms A* by Prof. Leye Wang, Peking University, Fall 2024.
