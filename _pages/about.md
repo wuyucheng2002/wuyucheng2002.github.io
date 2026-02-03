@@ -19,7 +19,7 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 # 📝 Publications
 
 - **Efficient Cross-Architecture Knowledge Transfer for Large-Scale Online User Response Prediction**<br/>
-<b>Yucheng Wu</b><sup>#</sup>, Yuekui Yang<sup>#</sup>, Hongzheng Li, Anan Liu, Jian Xiao, Junjie Zhai, Huan Yu, Shaoping Ma, Leye Wang<br/>
+<b>Yucheng Wu</b><sup>#</sup>, Yuekui Yang<sup>#</sup>\*, Hongzheng Li, Anan Liu, Jian Xiao, Junjie Zhai, Huan Yu, Shaoping Ma, Leye Wang\*<br/>
 *In preprint.*<br/>
 <a href="https://arxiv.org/abs/2602.01775" target="_blank">arXiv</a>
 
