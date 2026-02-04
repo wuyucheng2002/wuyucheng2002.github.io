@@ -11,12 +11,14 @@ redirect_from:
 Currently, I am a third-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>.
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="https://www.diggg.cn/pages/researchPower.html?id=2105dc281b092af604065c5916e9c73a" target="_blank">Xiao Han</a>.
 
-My research interests lie in data mining, recommendation system, and agent memory.
+My research interests lie in graph data mining, recommendation system, and agent memory.
 
 Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?wuyucheng" border="0" alt="Web Counters">
 
 
 # 📝 Publications
+
+## Recommendation System 
 
 - **Efficient Cross-Architecture Knowledge Transfer for Large-Scale Online User Response Prediction**<br/>
 <b>Yucheng Wu</b><sup>#</sup>, Yuekui Yang<sup>#</sup>\*, Hongzheng Li, Anan Liu, Jian Xiao, Junjie Zhai, Huan Yu, Shaoping Ma, Leye Wang\*<br/>
@@ -26,6 +28,8 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 - **JITPrune: An Efficient Online Feature Pruning Framework for Embedding-based DLRM Training**<br/>
 Hongzheng Li, <b>Yucheng Wu</b>, Junjie Zhai, Anan Liu, Yuekui Yang, Yingxia Shao<br/>
 [CCF-A] *ICDE 2026 Industry and Applications*
+
+## Graph Data Mining
 
 - **Learning-based Privacy-Preserving Graph Publishing Against Sensitive Link Inference Attacks**<br/>
 <b>Yucheng Wu</b><sup>#</sup>, Yuncong Yang<sup>#</sup>, Xiao Han\*, Leye Wang, Junjie Wu<br/>
