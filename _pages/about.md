@@ -63,7 +63,7 @@ We won the third prize of the *2023 Jiangsu Health and Medical Big Data Innovati
 # 📝 Services
 I serve(d) as a program committee member / reviewer for:
 
-- 2026: TIFS
+- 2026: KDD, TIFS
 - 2025: KDD
 
 # 📚 Teaching
