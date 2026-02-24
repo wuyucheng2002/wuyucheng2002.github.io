@@ -75,7 +75,7 @@ I serve(d) as a program committee member / reviewer for:
 - Teaching Assistant of *Data Structures and Algorithms A* by Prof. Leye Wang, Peking University, Fall 2023.
 
 # 💻 Internships
-- Intern of 2025 Tencent Rhino-bird Research Elite Program, Tencent (CDG), 2025.05 ~ Now.
+- Intern of 2025 Tencent Rhino-bird Research Elite Program, Tencent (CDG), 2025.05 ~ 2026.02.
 - Modeling Group Intern (Remote), Beijing HealSci Technology, 2023.10 ~ 2024.06.
 
 # 🏆 Competition
