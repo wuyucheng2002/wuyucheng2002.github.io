@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a third-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>.
+Currently, I am a third-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://liangmingpan.bio/" target="_blank">Liangming Pan</a> and Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>.
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="https://www.diggg.cn/pages/researchPower.html?id=2105dc281b092af604065c5916e9c73a" target="_blank">Xiao Han</a>.
 
-My research interests lie in graph data mining, recommendation system, and agent memory.
+My research focuses on the <b>mechanistic study of LLMs</b> and <b>trustworthy LLMs</b>, with previous work in graph data mining and recommender systems.
 
 Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycounter.com/counter.php?wuyucheng" border="0" alt="Web Counters">
 
