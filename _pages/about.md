@@ -21,7 +21,6 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 ## LLM
 
 - **HOLMES: Evaluating Higher-Order Logical Reasoning in LLMs**<br/>
-Yucheng Wu, Jundong Xu, Mingzhen Ju, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan
 <b>Yucheng Wu</b><sup>#</sup>, Jundong Xu<sup>#</sup>, Mingzhen Ju<sup>#</sup>, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan\*<br/>
 <a href="https://arxiv.org/abs/2606.23238" target="_blank">arXiv</a> |
 <a href="https://github.com/wuyucheng2002/HOLMES" target="_blank">Code&Dataset</a>
