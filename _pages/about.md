@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a third-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://liangmingpan.bio/" target="_blank">Liangming Pan</a> and Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>.
+Currently, I am a fourth-year PhD student in the School of Computer Science, Peking University, supervised by Prof. <a href="https://liangmingpan.bio/" target="_blank">Liangming Pan</a> and Prof. <a href="https://wangleye.github.io" target="_blank">Leye Wang</a>.
 Before that, I received my B.E. degree from Shanghai University of Finance and Economics in 2023, supervised by Prof. <a href="https://www.diggg.cn/pages/researchPower.html?id=2105dc281b092af604065c5916e9c73a" target="_blank">Xiao Han</a>.
 
 My research focuses on the <b>mechanistic study of LLMs</b> and <b>trustworthy LLMs</b>, with previous work in graph data mining and recommender systems.
@@ -20,11 +20,17 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 
 ## LLM
 
-- **HOLMES: Evaluating Higher-Order Logical Reasoning in LLMs**<br/>
-<b>Yucheng Wu</b><sup>#</sup>, Jundong Xu<sup>#</sup>, Mingzhen Ju<sup>#</sup>, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan\*<br/>
+- **CANS: Capability-Preserving Neuron Steering for Large Language Models**<br/>
+<b>Yucheng Wu</b><sup>#</sup>, Chengyi Xie<sup>#</sup>, Chenpeng Wang, Liangming Pan\*<br/>
+*In preprint.*<br/>
+<a href="https://arxiv.org/abs/2610.35530" target="_blank">arXiv</a> |
+<a href="https://github.com/Eric-Arya/CANS-Steer" target="_blank">Code</a>
+
+- **HOLogicBench: Evaluating Higher-Order Logical Reasoning in LLMs**<br/>
+<b>Yucheng Wu</b><sup>#</sup>, Jundong Xu<sup>#</sup>, Mingzhen Ju, Yue Yu, Chenpeng Wang, Haoxuan Li, Liangming Pan\*<br/>
 *In preprint.*<br/>
 <a href="https://arxiv.org/abs/2606.23238" target="_blank">arXiv</a> |
-<a href="https://github.com/wuyucheng2002/HOLMES" target="_blank">Code&Dataset</a>
+<a href="https://github.com/wuyucheng2002/HOLogicBench" target="_blank">Code</a>
 
 ## Recommender Systems
 
