@@ -27,7 +27,7 @@ Page Hits: <a href="https://www.easycounter.com/"><img src="https://www.easycoun
 <a href="https://github.com/Eric-Arya/CANS-Steer" target="_blank">Code</a>
 
 - **Does Steering Break Your Model? A Multi-Dimensional Evaluation Suite for LLM Steering Methods**<br/>
-Haotian Yang<sup>#</sup>, Huikang Jiang<sup>#</sup>, <b>Yucheng Wu</b><sup>#</sup>, Wen-Jie Jiang, Chenpeng Wang, Yibin Lou, Liangming Pan
+Haotian Yang<sup>#</sup>, Huikang Jiang<sup>#</sup>, <b>Yucheng Wu</b><sup>#</sup>, Wen-Jie Jiang, Chenpeng Wang, Yibin Lou, Liangming Pan\*<br/>
 *In preprint.*<br/>
 <a href="https://arxiv.org/abs/2610.07722" target="_blank">arXiv</a> |
 <a href="https://github.com/yht0511/steerscope" target="_blank">Code</a>
